@@ -1,4 +1,4 @@
-### A simple web scraping tool to get a list of all technology companies located in Malta
+### A quick web scraping script that will get you the contact details of all technology companies in Malta
 
 Malta has one of the most vibrant technology ecosystems in Europe
 
@@ -19,7 +19,14 @@ This code is not optimized for production. But it will get to the job done for y
 
 To run the script:
 
-After cloning the repository, create an environment
+Clone or download and unzip the repository
+
+Enter the directory
+```linux
+cd web-scraping-malta-tech-mt
+```
+
+Create an environment
 ```linux
 python3 -m venv venv
 ```
